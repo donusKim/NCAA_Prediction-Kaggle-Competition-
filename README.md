@@ -10,7 +10,11 @@
 
 ## 3. 데이터
 - WRegularSeasonDetailedResults.csv
+  - 역대 정규시즌 상세결과 파일
 - WTeams.csv
+  - 팀 이름과 팀ID 파일
 - WNCAATourneySeeds.csv
+  - 팀별 시드에 대한 파일
 - WNCAATourneyCompactResults.csv
+  - 역대 토너먼트 경기 결과 파일
 - [데이터출처(Kaggle)](https://www.kaggle.com/c/womens-machine-learning-competition-2019/data)
