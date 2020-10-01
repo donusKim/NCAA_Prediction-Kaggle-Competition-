@@ -13,4 +13,4 @@
 - WTeams.csv
 - WNCAATourneySeeds.csv
 - WNCAATourneyCompactResults.csv
-- [데이터츨처(Kaggle)](https://www.kaggle.com/c/womens-machine-learning-competition-2019/data)
+- [데이터출처(Kaggle)](https://www.kaggle.com/c/womens-machine-learning-competition-2019/data)
