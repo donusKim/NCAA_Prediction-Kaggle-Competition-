@@ -9,4 +9,8 @@
 - [Lightgbm](https://lightgbm.readthedocs.io/en/latest/)
 
 ## 3. 데이터
-- [Kaggle]https://www.kaggle.com/c/womens-machine-learning-competition-2019
+- WRegularSeasonDetailedResults.csv
+- WTeams.csv
+- WNCAATourneySeeds.csv
+- WNCAATourneyCompactResults.csv
+[데이터츨처(Kaggle)](https://www.kaggle.com/c/womens-machine-learning-competition-2019/data)
